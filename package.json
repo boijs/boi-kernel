@@ -1,0 +1,33 @@
+{
+  "name": "bolshoi-kernel",
+  "version": "0.0.0",
+  "description": "kernel features of bolshoi",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "node bin/build.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihardcoder/bolshoi-kernel.git"
+  },
+  "keywords": [
+    "bolshoi",
+    "frent-end"
+  ],
+  "author": "zhoujunpeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihardcoder/bolshoi-kernel/issues"
+  },
+  "homepage": "https://github.com/ihardcoder/bolshoi-kernel#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "glob": "^7.0.3",
+    "gulp": "^3.9.1",
+    "webpack": "^1.12.15"
+  }
+}
