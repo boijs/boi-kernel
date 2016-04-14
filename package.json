@@ -1,6 +1,6 @@
 {
   "name": "bolshoi-kernel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "kernel features of bolshoi",
   "main": "lib/index.js",
   "directories": {
