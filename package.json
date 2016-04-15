@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ihardcoder/bolshoi-kernel#readme",
   "dependencies": {
+    "bluebird": "^3.3.5",
     "colors": "^1.1.2",
     "glob": "^7.0.3",
     "gulp": "^3.9.1",
