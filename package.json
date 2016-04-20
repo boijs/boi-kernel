@@ -27,8 +27,11 @@
   "dependencies": {
     "bluebird": "^3.3.5",
     "colors": "^1.1.2",
+    "extract-text-webpack-plugin": "^1.0.1",
     "glob": "^7.0.3",
     "gulp": "^3.9.1",
+    "install": "^0.6.1",
+    "npm": "^3.8.6",
     "webpack": "^1.12.15"
   }
 }
