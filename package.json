@@ -1,37 +1,39 @@
 {
-  "name": "bolshoi-kernel",
-  "version": "0.0.1",
-  "description": "kernel features of bolshoi",
-  "main": "lib/index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "build": "node bin/build.js",
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ihardcoder/bolshoi-kernel.git"
-  },
-  "keywords": [
-    "bolshoi",
-    "frent-end"
-  ],
-  "author": "zhoujunpeng",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ihardcoder/bolshoi-kernel/issues"
-  },
-  "homepage": "https://github.com/ihardcoder/bolshoi-kernel#readme",
-  "dependencies": {
-    "bluebird": "^3.3.5",
-    "colors": "^1.1.2",
-    "extract-text-webpack-plugin": "^1.0.1",
-    "glob": "^7.0.3",
-    "gulp": "^3.9.1",
-    "install": "^0.6.1",
-    "npm": "^3.8.6",
-    "webpack": "^1.12.15"
-  }
+    "name": "boli-kernel",
+    "version": "0.0.1",
+    "description": "kernel features of boli",
+    "main": "lib/index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "build": "node bin/build.js",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ihardcoder/boli-kernel.git"
+    },
+    "keywords": [
+        "boli",
+        "frent-end",
+        "node",
+        "webpack"
+    ],
+    "author": "zhoujunpeng",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ihardcoder/bolshoi-kernel/issues"
+    },
+    "homepage": "https://github.com/ihardcoder/bolshoi-kernel#readme",
+    "dependencies": {
+        "bluebird": "^3.3.5",
+        "colors": "^1.1.2",
+        "extract-text-webpack-plugin": "^1.0.1",
+        "glob": "^7.0.3",
+        "gulp": "^3.9.1",
+        "install": "^0.6.1",
+        "npm": "^3.8.6",
+        "webpack": "^1.12.15"
+    }
 }
