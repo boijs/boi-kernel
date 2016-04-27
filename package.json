@@ -1,6 +1,6 @@
 {
   "name": "boli-kernel",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "kernel features of boli",
   "main": "lib/index.js",
   "directories": {
