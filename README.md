@@ -1,4 +1,4 @@
-boli-kernel
-===========
+boi-kernel
+==========
 
-boli is short for bolshoi
+boi is short for bolshoi
