@@ -7,8 +7,8 @@
         "test": "test"
     },
     "scripts": {
-        "jsdoc": "gulp --gulpfile build/build.doc.js",
-        "build:doc": "npm run jsdoc",
+        "doc": "gulp --gulpfile build/build.doc.js",
+        "build:doc": "npm run doc",
         "test": "test"
     },
     "repository": {
