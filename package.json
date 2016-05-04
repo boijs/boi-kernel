@@ -42,6 +42,7 @@
     "gulp": "^3.9.1",
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.15.0",
+    "image-loader": "0.0.1",
     "install": "^0.6.1",
     "node-sass": "^3.6.0",
     "npm": "^3.8.6",
