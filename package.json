@@ -38,11 +38,12 @@
     "colors": "^1.1.2",
     "css-loader": "^0.23.1",
     "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
     "glob": "^7.0.3",
     "gulp": "^3.9.1",
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.15.0",
-    "image-loader": "0.0.1",
+    "image-webpack-loader": "^1.8.0",
     "install": "^0.6.1",
     "node-sass": "^3.6.0",
     "npm": "^3.8.6",
@@ -50,6 +51,7 @@
     "sass-loader": "^3.2.0",
     "shelljs": "^0.7.0",
     "style-loader": "^0.13.1",
+    "url-loader": "^0.5.7",
     "webpack": "^1.12.15"
   },
   "devDependencies": {
