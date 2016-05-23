@@ -1,6 +1,6 @@
 {
   "name": "boi-kernel",
-  "version": "0.0.6",
+  "version": "1.0.0",
   "description": "kernel features of boi",
   "main": "lib/index.js",
   "directories": {
