@@ -8,8 +8,7 @@
   },
   "scripts": {
     "doc": "gulp --gulpfile build/build.doc.js",
-    "build:doc": "npm run doc",
-    "test": "test"
+    "build:doc": "npm run doc"
   },
   "repository": {
     "type": "git",
@@ -44,7 +43,7 @@
     "gulp": "^3.9.1",
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.15.0",
-    "html-webpack-replaceurl-plugin": "0.0.4",
+    "html-webpack-replaceurl-plugin": ">=0.0.5",
     "image-webpack-loader": "^1.8.0",
     "install": "^0.6.1",
     "koa": "^2.0.0",
