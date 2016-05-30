@@ -43,7 +43,7 @@
     "gulp": "^3.9.1",
     "html-loader": "^0.4.3",
     "html-webpack-plugin": "^2.15.0",
-    "html-webpack-replaceurl-plugin": "0.0.7",
+    "html-webpack-replaceurl-plugin": "0.0.8",
     "image-webpack-loader": "^1.8.0",
     "install": "^0.6.1",
     "koa": "^2.0.0",
@@ -59,7 +59,8 @@
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.15",
-    "webpack-dev-server": "^1.14.1"
+    "webpack-dev-server": "^1.14.1",
+    "webpack-srcmap-plugin": "0.0.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
