@@ -60,7 +60,7 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.12.15",
     "webpack-dev-server": "^1.14.1",
-    "webpack-srcmap-plugin": "0.0.1"
+    "webpack-srcmap-plugin": "0.0.2"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
