@@ -36,7 +36,7 @@
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-stage-0": "^6.16.0",
     "bluebird": "^3.4.6",
-    "boi-aux-autoinstall": "^0.0.2",
+    "boi-aux-autoinstall": "0.0.2",
     "boi-aux-rule-eslint": "0.0.4",
     "chalk": "^1.1.3",
     "clean-webpack-plugin": "^0.1.11",
