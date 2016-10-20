@@ -39,6 +39,7 @@
     "boi-aux-autoinstall": "^0.0.3",
     "boi-aux-rule-eslint": "0.0.4",
     "chalk": "^1.1.3",
+    "chunk-manifest-webpack-plugin": "^0.1.0",
     "clean-webpack-plugin": "^0.1.11",
     "css-loader": "^0.25.0",
     "eslint": "^3.7.1",
