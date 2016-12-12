@@ -21,7 +21,7 @@
     "webpack"
   ],
   "author": "zhoujunpeng",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ihardcoder/boi-kernel/issues"
   },
