@@ -51,7 +51,7 @@
     "html-loader": "^0.4.4",
     "html-webpack-plugin": "^2.22.0",
     "html-webpack-plugin-htmlhint": "^0.0.2",
-    "html-webpack-plugin-replaceurl": "^1.0.3",
+    "html-webpack-plugin-replaceurl": "^1.0.4",
     "image-webpack-loader": "^2.0.0",
     "lodash": "^4.16.4",
     "ora": "^1.1.0",
