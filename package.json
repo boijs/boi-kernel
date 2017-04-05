@@ -3,7 +3,9 @@
   "version": "1.3.5",
   "description": "kernel features of boi",
   "main": "lib/index.js",
-  "scripts": {},
+  "scripts": {
+    "lint": "eslint lib"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ihardcoder/boi-kernel.git"
@@ -52,11 +54,13 @@
     "html-webpack-plugin-htmlhint": "^0.0.2",
     "html-webpack-plugin-replaceurl": "^1.0.4",
     "image-webpack-loader": "^2.0.0",
+    "inquirer": "^3.0.6",
     "lodash": "^4.16.4",
     "ora": "^1.1.0",
     "postcss-loader": "^1.1.0",
     "postcss-sprites": "^4.0.0",
     "shelljs": "^0.7.4",
+    "ssh2": "^0.5.4",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.14.0",
