@@ -21,6 +21,6 @@
     "no-underscore-dangle": 0,
     "no-constant-condition": 0,
     "space-before-function-paren": [2, {"anonymous": "always", "named": "never"}],
-    "func-style": [2, "declaration"]
+    "func-style": [0, "declaration"]
   }
 }
