@@ -8,7 +8,8 @@
   "plugins": [
     "transform-runtime",
     "transform-object-assign",
-    "syntax-object-rest-spread"
+    "syntax-object-rest-spread",
+    "transform-object-rest-spread"
   ],
   "comments": false
 }
